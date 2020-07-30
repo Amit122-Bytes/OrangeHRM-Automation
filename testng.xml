@@ -9,7 +9,8 @@
   <parameter name="browser" value="Chrome"/>
   <classes>  
        <class name="com.orangehrm.TestCases.LoginTest"/>
-       <class name="com.orangehrm.TestCases.PersonalDetailsTest"/>  
+       <class name="com.orangehrm.TestCases.LoginDDTest" />
+       <class name="com.orangehrm.TestCases.PersonalDetailsTest"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

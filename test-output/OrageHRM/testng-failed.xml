@@ -7,13 +7,13 @@
   <test thread-count="5" name="OragneHRM Test(failed)">
     <parameter name="browser" value="Chrome"/>
     <classes>
-      <class name="com.orangehrm.TestCases.PersonalDetailsTest">
+      <class name="com.orangehrm.TestCases.LoginDDTest">
         <methods>
           <include name="close"/>
-          <include name="editpersonaldetails"/>
           <include name="setup"/>
+          <include name="logindatadriven" invocation-numbers="1 2 4 5"/>
         </methods>
-      </class> <!-- com.orangehrm.TestCases.PersonalDetailsTest -->
+      </class> <!-- com.orangehrm.TestCases.LoginDDTest -->
     </classes>
   </test> <!-- OragneHRM Test(failed) -->
 </suite> <!-- Failed suite [OrageHRM] -->
