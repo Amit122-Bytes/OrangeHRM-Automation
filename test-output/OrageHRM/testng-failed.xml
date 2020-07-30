@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrageHRM]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.orangehrm.Utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="OragneHRM Test(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.orangehrm.TestCases.PersonalDetailsTest">
+        <methods>
+          <include name="close"/>
+          <include name="editpersonaldetails"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.orangehrm.TestCases.PersonalDetailsTest -->
+    </classes>
+  </test> <!-- OragneHRM Test(failed) -->
+</suite> <!-- Failed suite [OrageHRM] -->

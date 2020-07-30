@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OrageHRM">
+<listeners>
+		<listener class-name="com.orangehrm.Utilities.Reporting" />
+	</listeners>
+
+  <test thread-count="5" name="OragneHRM Test">
+  <parameter name="browser" value="Chrome"/>
+  <classes>  
+       <class name="com.orangehrm.TestCases.LoginTest"/>
+       <class name="com.orangehrm.TestCases.PersonalDetailsTest"/>  
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
