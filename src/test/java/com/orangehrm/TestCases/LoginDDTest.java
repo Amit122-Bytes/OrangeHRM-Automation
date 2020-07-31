@@ -16,6 +16,7 @@ public class LoginDDTest extends BaseClass
 	@Test(dataProvider="LoginData")
 	public void logindatadriven(String user,String pwd) throws InterruptedException
 	{
+		driver.manage().window().maximize();
 		LoginPage lp=new LoginPage(driver);
 		lp.sendusername(user);
 		logger.info("User name is provided");

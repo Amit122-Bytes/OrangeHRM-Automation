@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="8" passed="4" failed="4" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-07-30T17:04:46Z" name="OrageHRM" finished-at="2020-07-30T17:05:56Z" duration-ms="70615">
+  <suite started-at="2020-07-31T15:45:45Z" name="OrageHRM" finished-at="2020-07-31T15:46:57Z" duration-ms="71688">
     <groups>
     </groups>
-    <test started-at="2020-07-30T17:04:46Z" name="OragneHRM Test" finished-at="2020-07-30T17:05:56Z" duration-ms="70615">
+    <test started-at="2020-07-31T15:45:45Z" name="OragneHRM Test" finished-at="2020-07-31T15:46:57Z" duration-ms="71688">
       <class name="com.orangehrm.TestCases.LoginDDTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-30T17:04:57Z" name="setup" finished-at="2020-07-30T17:05:03Z" duration-ms="5762" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-31T15:46:02Z" name="setup" finished-at="2020-07-31T15:46:06Z" duration-ms="4521" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-30T17:05:04Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-30T17:05:14Z" duration-ms="9604" status="PASS">
+        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-31T15:46:07Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-31T15:46:16Z" duration-ms="9023" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -34,7 +34,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logindatadriven -->
-        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-30T17:05:14Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-30T17:05:18Z" duration-ms="4033" status="FAIL">
+        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-31T15:46:16Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-31T15:46:20Z" duration-ms="3796" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -89,7 +89,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logindatadriven -->
-        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-30T17:05:18Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-30T17:05:22Z" duration-ms="3862" status="FAIL">
+        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-31T15:46:20Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-31T15:46:24Z" duration-ms="3929" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -144,7 +144,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logindatadriven -->
-        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-30T17:05:22Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-30T17:05:31Z" duration-ms="9232" status="PASS">
+        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-31T15:46:24Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-31T15:46:33Z" duration-ms="8643" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -160,7 +160,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logindatadriven -->
-        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-30T17:05:31Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-30T17:05:35Z" duration-ms="3988" status="FAIL">
+        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-31T15:46:33Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-31T15:46:36Z" duration-ms="3737" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -215,7 +215,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logindatadriven -->
-        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-30T17:05:35Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-30T17:05:39Z" duration-ms="3839" status="FAIL">
+        <test-method signature="logindatadriven(java.lang.String, java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-31T15:46:36Z" name="logindatadriven" data-provider="LoginData" finished-at="2020-07-31T15:46:40Z" duration-ms="3898" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -270,13 +270,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logindatadriven -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-30T17:05:39Z" name="close" finished-at="2020-07-30T17:05:40Z" duration-ms="670" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:com.orangehrm.TestCases.LoginDDTest@7526515b]" started-at="2020-07-31T15:46:40Z" name="close" finished-at="2020-07-31T15:46:41Z" duration-ms="657" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- com.orangehrm.TestCases.LoginDDTest -->
       <class name="com.orangehrm.TestCases.PersonalDetailsTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.TestCases.PersonalDetailsTest@1ed4ae0f]" started-at="2020-07-30T17:05:40Z" name="setup" finished-at="2020-07-30T17:05:45Z" duration-ms="5587" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.TestCases.PersonalDetailsTest@1ed4ae0f]" started-at="2020-07-31T15:46:41Z" name="setup" finished-at="2020-07-31T15:46:46Z" duration-ms="4641" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -287,17 +287,17 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="editpersonaldetails()[pri:0, instance:com.orangehrm.TestCases.PersonalDetailsTest@1ed4ae0f]" started-at="2020-07-30T17:05:45Z" name="editpersonaldetails" finished-at="2020-07-30T17:05:56Z" duration-ms="10565" status="PASS">
+        <test-method signature="editpersonaldetails()[pri:0, instance:com.orangehrm.TestCases.PersonalDetailsTest@1ed4ae0f]" started-at="2020-07-31T15:46:46Z" name="editpersonaldetails" finished-at="2020-07-31T15:46:56Z" duration-ms="10196" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editpersonaldetails -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.orangehrm.TestCases.PersonalDetailsTest@1ed4ae0f]" started-at="2020-07-30T17:05:56Z" name="close" finished-at="2020-07-30T17:05:56Z" duration-ms="687" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:com.orangehrm.TestCases.PersonalDetailsTest@1ed4ae0f]" started-at="2020-07-31T15:46:56Z" name="close" finished-at="2020-07-31T15:46:57Z" duration-ms="682" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- com.orangehrm.TestCases.PersonalDetailsTest -->
       <class name="com.orangehrm.TestCases.LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginTest@644baf4a]" started-at="2020-07-30T17:04:46Z" name="setup" finished-at="2020-07-30T17:04:52Z" duration-ms="5885" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.TestCases.LoginTest@644baf4a]" started-at="2020-07-31T15:45:45Z" name="setup" finished-at="2020-07-31T15:45:54Z" duration-ms="9370" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -308,11 +308,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.orangehrm.TestCases.LoginTest@644baf4a]" started-at="2020-07-30T17:04:52Z" name="loginTest" finished-at="2020-07-30T17:04:57Z" duration-ms="4843" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.orangehrm.TestCases.LoginTest@644baf4a]" started-at="2020-07-31T15:45:54Z" name="loginTest" finished-at="2020-07-31T15:46:01Z" duration-ms="6476" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.orangehrm.TestCases.LoginTest@644baf4a]" started-at="2020-07-30T17:04:57Z" name="close" finished-at="2020-07-30T17:04:57Z" duration-ms="659" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:com.orangehrm.TestCases.LoginTest@644baf4a]" started-at="2020-07-31T15:46:01Z" name="close" finished-at="2020-07-31T15:46:02Z" duration-ms="653" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
