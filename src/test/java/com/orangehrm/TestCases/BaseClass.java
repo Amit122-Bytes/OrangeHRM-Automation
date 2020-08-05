@@ -26,15 +26,16 @@ public class BaseClass {
 	public static WebDriver driver;
 	
 	public static  Logger logger;
-	
-	@Parameters("browser")
+	 
 	@BeforeClass
+    @Parameters("browser")
 	public void setup(String br)
 	{
 	      
 	  logger=Logger.getLogger("OrangeHRM");
 	  PropertyConfigurator.configure("log4j.properties");
 	  
+	
 	  if(br.equals("Chrome"))
 	  {
 		  System.setProperty("webdriver.chrome.driver",read.chrome());

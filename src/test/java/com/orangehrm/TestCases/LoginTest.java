@@ -14,6 +14,7 @@ public class LoginTest extends BaseClass
      @Test
 	 public void loginTest() throws IOException
 	 {
+    	
 		 logger.info("URL is opened");
 		 driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS) ;
 		 driver.manage().window().maximize();

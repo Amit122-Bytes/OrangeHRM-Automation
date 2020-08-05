@@ -14,8 +14,6 @@ public class GotoPage {
 				driver.findElement(By.partialLinkText(subMenu)).click();
 			}
 		}
-		
-		
 	}
 	public static void clickOn(WebDriver driver, String menu) {
 		if(checkText(driver, menu)) {

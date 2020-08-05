@@ -22,7 +22,7 @@ public class PersonalDetailsTest extends BaseClass
 		data.sendpassword(password);
 		logger.info("Password Provided");
 		data.clickbutton();
-		
+		Thread.sleep(3000);
 		GotoPage.clickOn( driver, "My Info", "Personal Details");
 		PersonalDetailsPage add=new PersonalDetailsPage(driver);
 		add.editdetails();
