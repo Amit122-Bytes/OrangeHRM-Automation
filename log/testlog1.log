@@ -464,3 +464,165 @@
 2020-08-05 22:07:31,184 [main] INFO OrangeHRM - Choose Nationality
 2020-08-05 22:07:33,067 [main] INFO OrangeHRM - Save Sucessfully
 2020-08-05 22:07:33,079 [main] INFO OrangeHRM - Test is passed
+2020-08-23 11:16:40,599 [main] INFO OrangeHRM - URL is opened
+2020-08-23 11:16:42,971 [main] INFO OrangeHRM - Entered Username
+2020-08-23 11:16:43,151 [main] INFO OrangeHRM - Entered Password
+2020-08-23 11:16:45,119 [main] INFO OrangeHRM - Test is passed
+2020-08-23 11:16:55,546 [main] INFO OrangeHRM - User name is provided
+2020-08-23 11:16:55,693 [main] INFO OrangeHRM - Password is provided
+2020-08-23 11:17:00,381 [main] INFO OrangeHRM - Login Passed
+2020-08-23 11:17:04,623 [main] INFO OrangeHRM - User name is provided
+2020-08-23 11:17:04,744 [main] INFO OrangeHRM - Password is provided
+2020-08-23 11:17:08,736 [main] INFO OrangeHRM - User name is provided
+2020-08-23 11:17:08,819 [main] INFO OrangeHRM - Password is provided
+2020-08-23 11:17:15,399 [main] INFO OrangeHRM - User name is provided
+2020-08-23 11:17:15,499 [main] INFO OrangeHRM - Password is provided
+2020-08-23 11:17:19,816 [main] INFO OrangeHRM - Login Passed
+2020-08-23 11:17:24,024 [main] INFO OrangeHRM - User name is provided
+2020-08-23 11:17:24,119 [main] INFO OrangeHRM - Password is provided
+2020-08-23 11:17:27,810 [main] INFO OrangeHRM - User name is provided
+2020-08-23 11:17:27,896 [main] INFO OrangeHRM - Password is provided
+2020-08-23 11:17:39,122 [main] INFO OrangeHRM - Username Provided
+2020-08-23 11:17:39,220 [main] INFO OrangeHRM - Password Provided
+2020-08-23 11:17:48,794 [main] INFO OrangeHRM - Click on Edit Button
+2020-08-23 11:17:48,991 [main] INFO OrangeHRM - Enter first name
+2020-08-23 11:17:49,191 [main] INFO OrangeHRM - Enter last name
+2020-08-23 11:17:49,402 [main] INFO OrangeHRM - Insert ID
+2020-08-23 11:17:49,698 [main] INFO OrangeHRM - Data is inserting
+2020-08-23 11:17:49,792 [main] INFO OrangeHRM - Gender is Choosing
+2020-08-23 11:17:49,934 [main] INFO OrangeHRM - Choose Material status
+2020-08-23 11:17:50,075 [main] INFO OrangeHRM - Choose Nationality
+2020-08-23 11:17:52,194 [main] INFO OrangeHRM - Save Sucessfully
+2020-08-23 11:17:52,203 [main] INFO OrangeHRM - Test is passed
+2020-08-23 12:11:04,415 [main] INFO OrangeHRM - URL is opened
+2020-08-23 12:12:09,651 [main] INFO OrangeHRM - URL is opened
+2020-08-23 12:35:14,717 [main] INFO OrangeHRM - URL is opened
+2020-08-23 12:49:06,184 [main] INFO OrangeHRM - URL is opened
+2020-08-23 12:49:08,473 [main] INFO OrangeHRM - Entered Username
+2020-08-23 12:49:08,559 [main] INFO OrangeHRM - Entered Password
+2020-08-23 12:49:10,547 [main] INFO OrangeHRM - Test is passed
+2020-08-23 12:49:19,358 [main] INFO OrangeHRM - User name is provided
+2020-08-23 12:49:19,443 [main] INFO OrangeHRM - Password is provided
+2020-08-23 12:49:24,028 [main] INFO OrangeHRM - Login Passed
+2020-08-23 12:49:28,054 [main] INFO OrangeHRM - User name is provided
+2020-08-23 12:49:28,126 [main] INFO OrangeHRM - Password is provided
+2020-08-23 12:49:31,725 [main] INFO OrangeHRM - User name is provided
+2020-08-23 12:49:31,799 [main] INFO OrangeHRM - Password is provided
+2020-08-23 12:49:35,362 [main] INFO OrangeHRM - User name is provided
+2020-08-23 12:49:35,440 [main] INFO OrangeHRM - Password is provided
+2020-08-23 12:49:39,680 [main] INFO OrangeHRM - Login Passed
+2020-08-23 12:49:43,856 [main] INFO OrangeHRM - User name is provided
+2020-08-23 12:49:43,941 [main] INFO OrangeHRM - Password is provided
+2020-08-23 12:49:47,528 [main] INFO OrangeHRM - User name is provided
+2020-08-23 12:49:47,603 [main] INFO OrangeHRM - Password is provided
+2020-08-23 12:49:58,541 [main] INFO OrangeHRM - Username Provided
+2020-08-23 12:49:58,640 [main] INFO OrangeHRM - Password Provided
+2020-08-23 12:50:05,685 [main] INFO OrangeHRM - Click on Edit Button
+2020-08-23 12:50:05,841 [main] INFO OrangeHRM - Enter first name
+2020-08-23 12:50:05,978 [main] INFO OrangeHRM - Enter last name
+2020-08-23 12:50:06,106 [main] INFO OrangeHRM - Insert ID
+2020-08-23 12:50:06,357 [main] INFO OrangeHRM - Data is inserting
+2020-08-23 12:50:06,463 [main] INFO OrangeHRM - Gender is Choosing
+2020-08-23 12:50:06,570 [main] INFO OrangeHRM - Choose Material status
+2020-08-23 12:50:06,663 [main] INFO OrangeHRM - Choose Nationality
+2020-08-23 12:50:08,323 [main] INFO OrangeHRM - Save Sucessfully
+2020-08-23 12:50:08,332 [main] INFO OrangeHRM - Test is passed
+2020-08-23 13:49:29,827 [main] INFO OrangeHRM - URL is opened
+2020-08-23 13:49:32,271 [main] INFO OrangeHRM - Entered Username
+2020-08-23 13:49:32,375 [main] INFO OrangeHRM - Entered Password
+2020-08-23 13:49:34,851 [main] INFO OrangeHRM - Test is passed
+2020-08-23 13:49:44,966 [main] INFO OrangeHRM - User name is provided
+2020-08-23 13:49:45,056 [main] INFO OrangeHRM - Password is provided
+2020-08-23 13:49:52,831 [main] INFO OrangeHRM - Login Passed
+2020-08-23 13:49:57,783 [main] INFO OrangeHRM - User name is provided
+2020-08-23 13:49:57,880 [main] INFO OrangeHRM - Password is provided
+2020-08-23 13:50:01,780 [main] INFO OrangeHRM - User name is provided
+2020-08-23 13:50:01,862 [main] INFO OrangeHRM - Password is provided
+2020-08-23 13:50:05,996 [main] INFO OrangeHRM - User name is provided
+2020-08-23 13:50:06,139 [main] INFO OrangeHRM - Password is provided
+2020-08-23 13:50:10,612 [main] INFO OrangeHRM - Login Passed
+2020-08-23 13:50:14,716 [main] INFO OrangeHRM - User name is provided
+2020-08-23 13:50:14,797 [main] INFO OrangeHRM - Password is provided
+2020-08-23 13:50:18,383 [main] INFO OrangeHRM - User name is provided
+2020-08-23 13:50:18,464 [main] INFO OrangeHRM - Password is provided
+2020-08-23 13:50:31,137 [main] INFO OrangeHRM - Username Provided
+2020-08-23 13:50:31,249 [main] INFO OrangeHRM - Password Provided
+2020-08-23 13:50:39,129 [main] INFO OrangeHRM - Click on Edit Button
+2020-08-23 13:50:39,333 [main] INFO OrangeHRM - Enter first name
+2020-08-23 13:50:39,497 [main] INFO OrangeHRM - Enter last name
+2020-08-23 13:50:39,641 [main] INFO OrangeHRM - Insert ID
+2020-08-23 13:50:39,964 [main] INFO OrangeHRM - Data is inserting
+2020-08-23 13:50:40,045 [main] INFO OrangeHRM - Gender is Choosing
+2020-08-23 13:50:40,188 [main] INFO OrangeHRM - Choose Material status
+2020-08-23 13:50:40,263 [main] INFO OrangeHRM - Choose Nationality
+2020-08-23 13:50:41,742 [main] INFO OrangeHRM - Save Sucessfully
+2020-08-23 13:50:41,749 [main] INFO OrangeHRM - Test is passed
+2020-08-24 19:56:37,175 [main] INFO OrangeHRM - URL is opened
+2020-08-24 19:56:39,690 [main] INFO OrangeHRM - Entered Username
+2020-08-24 19:56:39,786 [main] INFO OrangeHRM - Entered Password
+2020-08-24 19:56:42,566 [main] INFO OrangeHRM - Test is passed
+2020-08-24 19:56:51,444 [main] INFO OrangeHRM - User name is provided
+2020-08-24 19:56:51,537 [main] INFO OrangeHRM - Password is provided
+2020-08-24 19:56:56,896 [main] INFO OrangeHRM - Login Passed
+2020-08-24 19:57:01,067 [main] INFO OrangeHRM - User name is provided
+2020-08-24 19:57:01,152 [main] INFO OrangeHRM - Password is provided
+2020-08-24 19:57:04,817 [main] INFO OrangeHRM - User name is provided
+2020-08-24 19:57:04,895 [main] INFO OrangeHRM - Password is provided
+2020-08-24 19:57:08,477 [main] INFO OrangeHRM - User name is provided
+2020-08-24 19:57:08,598 [main] INFO OrangeHRM - Password is provided
+2020-08-24 19:57:12,792 [main] INFO OrangeHRM - Login Passed
+2020-08-24 19:57:16,756 [main] INFO OrangeHRM - User name is provided
+2020-08-24 19:57:16,840 [main] INFO OrangeHRM - Password is provided
+2020-08-24 19:57:20,373 [main] INFO OrangeHRM - User name is provided
+2020-08-24 19:57:20,469 [main] INFO OrangeHRM - Password is provided
+2020-08-24 19:57:31,818 [main] INFO OrangeHRM - Username Provided
+2020-08-24 19:57:31,910 [main] INFO OrangeHRM - Password Provided
+2020-08-24 19:57:40,319 [main] INFO OrangeHRM - Click on Edit Button
+2020-08-24 19:57:40,548 [main] INFO OrangeHRM - Enter first name
+2020-08-24 19:57:40,678 [main] INFO OrangeHRM - Enter last name
+2020-08-24 19:57:40,805 [main] INFO OrangeHRM - Insert ID
+2020-08-24 19:57:41,050 [main] INFO OrangeHRM - Data is inserting
+2020-08-24 19:57:41,132 [main] INFO OrangeHRM - Gender is Choosing
+2020-08-24 19:57:41,252 [main] INFO OrangeHRM - Choose Material status
+2020-08-24 19:57:41,318 [main] INFO OrangeHRM - Choose Nationality
+2020-08-24 19:57:44,453 [main] INFO OrangeHRM - Save Sucessfully
+2020-08-24 19:57:44,461 [main] INFO OrangeHRM - Test is passed
+2020-08-24 20:18:26,779 [main] INFO OrangeHRM - Browser is launching
+2020-08-24 20:20:50,360 [main] INFO OrangeHRM - Browser is launching
+2020-08-24 20:20:52,585 [main] INFO OrangeHRM - Accessing Username from Database
+2020-08-24 20:20:52,677 [main] INFO OrangeHRM - Accessing Password from Database
+2020-08-24 20:20:54,341 [main] INFO OrangeHRM - Click on Login
+2020-08-24 20:48:14,374 [main] INFO OrangeHRM - URL is opened
+2020-08-24 20:48:16,633 [main] INFO OrangeHRM - Entered Username
+2020-08-24 20:48:16,723 [main] INFO OrangeHRM - Entered Password
+2020-08-24 20:48:18,278 [main] INFO OrangeHRM - Test is passed
+2020-08-24 20:48:27,843 [main] INFO OrangeHRM - User name is provided
+2020-08-24 20:48:27,933 [main] INFO OrangeHRM - Password is provided
+2020-08-24 20:48:33,272 [main] INFO OrangeHRM - Login Passed
+2020-08-24 20:48:39,754 [main] INFO OrangeHRM - User name is provided
+2020-08-24 20:48:39,833 [main] INFO OrangeHRM - Password is provided
+2020-08-24 20:48:43,596 [main] INFO OrangeHRM - User name is provided
+2020-08-24 20:48:43,669 [main] INFO OrangeHRM - Password is provided
+2020-08-24 20:48:47,266 [main] INFO OrangeHRM - User name is provided
+2020-08-24 20:48:47,345 [main] INFO OrangeHRM - Password is provided
+2020-08-24 20:48:51,549 [main] INFO OrangeHRM - Login Passed
+2020-08-24 20:48:55,582 [main] INFO OrangeHRM - User name is provided
+2020-08-24 20:48:55,660 [main] INFO OrangeHRM - Password is provided
+2020-08-24 20:48:59,200 [main] INFO OrangeHRM - User name is provided
+2020-08-24 20:48:59,279 [main] INFO OrangeHRM - Password is provided
+2020-08-24 20:49:10,139 [main] INFO OrangeHRM - Username Provided
+2020-08-24 20:49:10,230 [main] INFO OrangeHRM - Password Provided
+2020-08-24 20:49:17,027 [main] INFO OrangeHRM - Click on Edit Button
+2020-08-24 20:49:17,167 [main] INFO OrangeHRM - Enter first name
+2020-08-24 20:49:17,296 [main] INFO OrangeHRM - Enter last name
+2020-08-24 20:49:17,421 [main] INFO OrangeHRM - Insert ID
+2020-08-24 20:49:17,642 [main] INFO OrangeHRM - Data is inserting
+2020-08-24 20:49:17,720 [main] INFO OrangeHRM - Gender is Choosing
+2020-08-24 20:49:17,788 [main] INFO OrangeHRM - Choose Material status
+2020-08-24 20:49:17,855 [main] INFO OrangeHRM - Choose Nationality
+2020-08-24 20:49:19,118 [main] INFO OrangeHRM - Save Sucessfully
+2020-08-24 20:49:19,124 [main] INFO OrangeHRM - Test is passed
+2020-08-24 20:49:25,234 [main] INFO OrangeHRM - Browser is launching
+2020-08-24 20:49:27,449 [main] INFO OrangeHRM - Accessing Username from Database
+2020-08-24 20:49:27,538 [main] INFO OrangeHRM - Accessing Password from Database
+2020-08-24 20:49:28,935 [main] INFO OrangeHRM - Click on Login

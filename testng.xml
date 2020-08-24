@@ -7,10 +7,11 @@
 
   <test thread-count="5" name="OragneHRM Test">
   <parameter name="browser" value="Chrome"/>
-  <classes>  
-       <class name="com.orangehrm.TestCases.LoginTest"/>
-       <class name="com.orangehrm.TestCases.LoginDDTest" />
-       <class name="com.orangehrm.TestCases.PersonalDetailsTest"/>
+  <classes> 
+            <class name="com.orangehrm.TestCases.LoginTest"/>
+            <class name="com.orangehrm.TestCases.LoginDDTest" />
+            <class name="com.orangehrm.TestCases.PersonalDetailsTest"/>
+            <class name="com.orangehrm.Database.LoginfromDatabase"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
