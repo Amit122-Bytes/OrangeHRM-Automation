@@ -729,3 +729,33 @@
 2020-08-30 22:04:21,927 [main] INFO OrangeHRM - Choose Nationality
 2020-08-30 22:04:23,625 [main] INFO OrangeHRM - Save Sucessfully
 2020-08-30 22:04:23,632 [main] INFO OrangeHRM - Test is passed
+2021-07-12 00:11:49,835 [main] INFO OrangeHRM - URL is opened
+2021-07-12 00:11:50,522 [main] INFO OrangeHRM - Entered Username
+2021-07-12 00:11:50,608 [main] INFO OrangeHRM - Entered Password
+2021-07-12 00:11:52,558 [main] INFO OrangeHRM - Test is passed
+2021-07-12 00:11:59,250 [main] INFO OrangeHRM - User name is provided
+2021-07-12 00:11:59,339 [main] INFO OrangeHRM - Password is provided
+2021-07-12 00:12:04,479 [main] INFO OrangeHRM - Login Passed
+2021-07-12 00:12:08,753 [main] INFO OrangeHRM - User name is provided
+2021-07-12 00:12:08,820 [main] INFO OrangeHRM - Password is provided
+2021-07-12 00:12:12,718 [main] INFO OrangeHRM - User name is provided
+2021-07-12 00:12:12,792 [main] INFO OrangeHRM - Password is provided
+2021-07-12 00:12:16,481 [main] INFO OrangeHRM - User name is provided
+2021-07-12 00:12:16,557 [main] INFO OrangeHRM - Password is provided
+2021-07-12 00:12:21,027 [main] INFO OrangeHRM - Login Passed
+2021-07-12 00:12:25,338 [main] INFO OrangeHRM - User name is provided
+2021-07-12 00:12:25,407 [main] INFO OrangeHRM - Password is provided
+2021-07-12 00:12:29,150 [main] INFO OrangeHRM - User name is provided
+2021-07-12 00:12:29,215 [main] INFO OrangeHRM - Password is provided
+2021-07-12 00:12:38,120 [main] INFO OrangeHRM - Username Provided
+2021-07-12 00:12:38,200 [main] INFO OrangeHRM - Password Provided
+2021-07-12 00:12:46,726 [main] INFO OrangeHRM - Click on Edit Button
+2021-07-12 00:12:46,864 [main] INFO OrangeHRM - Enter first name
+2021-07-12 00:12:46,983 [main] INFO OrangeHRM - Enter last name
+2021-07-12 00:12:47,099 [main] INFO OrangeHRM - Insert ID
+2021-07-12 00:12:47,288 [main] INFO OrangeHRM - Data is inserting
+2021-07-12 00:12:47,360 [main] INFO OrangeHRM - Gender is Choosing
+2021-07-12 00:12:47,478 [main] INFO OrangeHRM - Choose Material status
+2021-07-12 00:12:47,571 [main] INFO OrangeHRM - Choose Nationality
+2021-07-12 00:12:49,218 [main] INFO OrangeHRM - Save Sucessfully
+2021-07-12 00:12:49,224 [main] INFO OrangeHRM - Test is passed

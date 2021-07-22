@@ -729,3 +729,33 @@
 2020-08-30 22:04:21,927 - OrangeHRM -INFO - Choose Nationality
 2020-08-30 22:04:23,625 - OrangeHRM -INFO - Save Sucessfully
 2020-08-30 22:04:23,632 - OrangeHRM -INFO - Test is passed
+2021-07-12 00:11:49,835 - OrangeHRM -INFO - URL is opened
+2021-07-12 00:11:50,522 - OrangeHRM -INFO - Entered Username
+2021-07-12 00:11:50,608 - OrangeHRM -INFO - Entered Password
+2021-07-12 00:11:52,558 - OrangeHRM -INFO - Test is passed
+2021-07-12 00:11:59,250 - OrangeHRM -INFO - User name is provided
+2021-07-12 00:11:59,339 - OrangeHRM -INFO - Password is provided
+2021-07-12 00:12:04,479 - OrangeHRM -INFO - Login Passed
+2021-07-12 00:12:08,753 - OrangeHRM -INFO - User name is provided
+2021-07-12 00:12:08,820 - OrangeHRM -INFO - Password is provided
+2021-07-12 00:12:12,718 - OrangeHRM -INFO - User name is provided
+2021-07-12 00:12:12,792 - OrangeHRM -INFO - Password is provided
+2021-07-12 00:12:16,481 - OrangeHRM -INFO - User name is provided
+2021-07-12 00:12:16,557 - OrangeHRM -INFO - Password is provided
+2021-07-12 00:12:21,027 - OrangeHRM -INFO - Login Passed
+2021-07-12 00:12:25,338 - OrangeHRM -INFO - User name is provided
+2021-07-12 00:12:25,407 - OrangeHRM -INFO - Password is provided
+2021-07-12 00:12:29,150 - OrangeHRM -INFO - User name is provided
+2021-07-12 00:12:29,215 - OrangeHRM -INFO - Password is provided
+2021-07-12 00:12:38,120 - OrangeHRM -INFO - Username Provided
+2021-07-12 00:12:38,200 - OrangeHRM -INFO - Password Provided
+2021-07-12 00:12:46,726 - OrangeHRM -INFO - Click on Edit Button
+2021-07-12 00:12:46,864 - OrangeHRM -INFO - Enter first name
+2021-07-12 00:12:46,983 - OrangeHRM -INFO - Enter last name
+2021-07-12 00:12:47,099 - OrangeHRM -INFO - Insert ID
+2021-07-12 00:12:47,288 - OrangeHRM -INFO - Data is inserting
+2021-07-12 00:12:47,360 - OrangeHRM -INFO - Gender is Choosing
+2021-07-12 00:12:47,478 - OrangeHRM -INFO - Choose Material status
+2021-07-12 00:12:47,571 - OrangeHRM -INFO - Choose Nationality
+2021-07-12 00:12:49,218 - OrangeHRM -INFO - Save Sucessfully
+2021-07-12 00:12:49,224 - OrangeHRM -INFO - Test is passed
